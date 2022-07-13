@@ -9,4 +9,4 @@ git clone --depth=1 https://github.com/citueda/pimouse_ros.git
         #↑depth=1を指定すると最新のものだけクローンできる
 
 cd ~/catkin_ws
-catkin_make1
+catkin_make
